@@ -10,7 +10,6 @@ cask "writeopia" do
     app "Writeopia.app"
   
     zap trash: [      
-      "~/.writeopia"
       "~/Library/Preferences/io.writeopia.notesApp.plist",
     ]
   end
