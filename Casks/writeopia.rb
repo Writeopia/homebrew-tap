@@ -1,6 +1,6 @@
 cask "writeopia" do
-    version "0.39.0"
-    sha256 "0c5bfa929788d16e76d1d05b57a34896b0769e8ead74f50d8058694b72d47430"
+    version "0.40.0"
+    sha256 "3c11ae307927f8bdce968cf951a58198a09a055f81656c1716c4cde751ee35ca"
   
     url "https://writeopia.io/apps-download/latest/Writeopia.dmg"
     name "Writeopia"
